@@ -1,7 +1,7 @@
 html
 {
-	/*background:url(../images/background.jpg);*/
-	background-color: blue;
+	background:url(../images/background.jpg);
+	/*background-color: blue;*/
 }
 
 .prof-box
@@ -11,4 +11,10 @@ html
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: white;
+}
+.prof-pic
+{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px; 
 }
